@@ -1,0 +1,9 @@
+[class*='fl-'] {
+    padding: 0.6rem;
+    width: 100%;
+}
+section .container,
+footer .container{
+    padding-right: 2rem;
+    padding-left: 2rem;
+}

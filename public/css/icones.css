@@ -1,0 +1,234 @@
+/*icon nav-bar*/
+.nav-bar .menu-item .icon-categories .st0,
+.nav-bar .menu-item .icon-tags .st0,
+.nav-bar .menu-item .icon-tags .point,
+.nav-bar .menu-item .icon-profile .st0,
+.nav-bar .menu-item .icon-infos .st0,
+.nav-bar .menu-item .icon-infos .point,
+.nav-bar .menu-item .icon-search .st0,
+.form-recherche .icon-tags .st0{
+    stroke: rgba(185, 185, 185, 1);
+}
+.nav-bar .menu-item.active .icon-categories .st0,
+.nav-bar .menu-item.active .icon-profile .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.nav-bar .menu-item .icon-tags .point,
+.nav-bar .menu-item .icon-infos .point,
+.form-recherche .icon-tags .point{
+    fill: rgba(185, 185, 185, 1);
+}
+.nav-bar .menu-item .icon-menu svg{
+    stroke-width: 6;
+}
+.btn-recherche svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.icon-down svg .st0{
+    stroke: rgba(204, 204, 204, 1);
+    stroke-width: 10;
+}
+/*categorie*/
+.section-link .section-link-icon svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+    stroke-width: 6;
+}
+/*wallpaper populaire*/
+.icon-download svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+    fill:  rgba(0, 189, 245, 1);
+}
+.item-bloc .bloc-infos .icon-tags svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.item-bloc .bloc-infos .icon-tags svg .point{
+    fill:  rgba(0, 189, 245, 1);
+    stroke:  rgba(0, 189, 245, 1);
+}
+.item-bloc .bloc-rating-hd .icon-rating svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+    fill:  rgba(0, 189, 245, 1);
+    stroke-width: 0 !important;
+}
+/*end*/
+/*section partage social*/
+.bloc-icon-social .icon-social.fbk svg .st1,
+.bloc-icon-social .icon-social.gp svg .st1,
+.bloc-icon-social .icon-social.twr svg .st1,
+.bloc-icon-social .icon-social.itg svg .st0,
+.bloc-icon-social .icon-social.twr svg .st0,
+.bloc-icon-social .icon-social.gp svg .st0,
+.bloc-icon-social .icon-social.fbk svg .st0,
+.bloc-icon-social .icon-social.itg svg .point{
+    stroke:  rgba(0, 189, 245, 1);
+    fill:  rgba(0, 189, 245, 1);
+}
+.bloc-icon-social .icon-social.itg svg .st1{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.add-tags.icon-tag svg .st0{
+    stroke: rgba(0, 189, 245, 1);
+}
+
+.add-tags.icon-tag svg .point{
+    fill: rgba(0, 189, 245, 1);
+}
+/*end*/
+/*section footer*/
+.footer-section .flex-item .element-li .icon-row svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+/*end*/
+/*modal navigation*/
+.nav-link-element .icon-link-categorie svg .st0,
+.nav-link-element .icon-link-wallpaper svg .st0,
+.indentification-content .form-content .btn-submit svg .st0,
+.social-bloc .form-social-icon svg .st0,
+.social-bloc .form-social-icon svg .st1{
+    stroke:  rgba(0, 189, 245, 1);
+}
+
+.social-bloc .form-social-icon svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+/*end*/
+/*tags moteur recherche*/
+.tag-icon svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.tag-icon svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+/*end*/
+/*note modal*/
+.icon-note svg .st0{
+    fill:  rgba(0, 189, 245, 1);
+    stroke:  rgba(0, 189, 245, 1);
+    stroke-width: 0 !important;
+}
+.image-item-tags .icon-tag svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.image-item-tags .icon-tag svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+.load-link svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+/*end*/
+/*inscription*/
+.user-image-content svg .st0{
+    stroke-width: 1;
+    stroke: rgba(255, 255, 255, 1);
+}
+/*end*/
+/*membre page*/
+.update-icon svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.icon-type-connexion svg .st0,
+.icon-type-connexion svg .st1{
+    stroke:  rgba(0, 189, 245, 1);
+    fill:  rgba(0, 189, 245, 1);
+}
+.icon-other svg .st0,
+.icon-other svg .st1{
+    stroke: rgba(0, 189, 245, .3);
+}
+.icon-other svg .point{
+    fill: rgba(0, 189, 245, .3);
+}
+/*end*/
+/*modal upload image*/
+.add-item-icon svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.tag-add-item svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+
+.btn-download-icon svg .st0{
+    stroke: rgba(185, 185, 185, 1);
+}
+.btn-download-icon.valide svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.tag-add-item svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+/*end*/
+/*page tags*/
+.ariane-navigation .icon-home svg .point{
+    fill: rgba(185, 185, 185, 1);
+}
+.ariane-navigation .icon-home:hover svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+.ariane-navigation .icon-home:hover svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.ariane-navigation .icon-home svg .st0{
+    stroke: rgba(185, 185, 185, 1);
+}
+.ariane-navigation .icon-tags svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.ariane-navigation .icon-tags svg .point{
+    fill:  rgba(0, 189, 245, 1);
+}
+.ariane-navigation .icon-row svg .st0{
+    stroke: rgba(185, 185, 185, 1);
+}
+/*end*/
+/*membres connecté*/
+#page-membre .nav-bar .menu-item .icon-profile .st0{
+    /*fill:  rgba(0, 189, 245, 1);*/
+    stroke: rgba(255, 255, 255, 1);
+}
+/*end*/
+.ad-wallpaper svg .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+
+/*Eric*/
+.bloc-icon-social .icon-social.fbk svg .st1,
+.bloc-icon-social .icon-social.gp svg .st1,
+.bloc-icon-social .icon-social.twr svg .st1,
+.bloc-icon-social .icon-social.itg svg .st0,
+.bloc-icon-social .icon-social.twr svg .st0,
+.bloc-icon-social .icon-social.gp svg .st0,
+.bloc-icon-social .icon-social.fbk svg .st0,
+.bloc-icon-social .icon-social.itg svg .point {
+    stroke:  rgba(0, 189, 245, 1);
+    fill:  rgba(0, 189, 245, 1);
+    stroke-width: 0 !important;
+}
+.icon-piece-num .st0,
+.on-icon-piece .st0{
+    stroke:  rgba(0, 189, 245, 1);
+}
+.icon-time .st0,
+.icon-progress .st0,
+.icon-restart .st0
+{
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 0 !important;
+}
+.icon-sound .st0,
+.icon-seeting .st0,
+.icon-close .st0{
+    stroke: rgba(185, 185, 185, 1);
+    fill: rgba(185, 185, 185, 1);
+    cursor: pointer;
+}
+.icon-close ._1L2g9 {
+    fill: rgba(185, 185, 185, 1);
+}
+.deja-joue svg .st0,
+.en-cours svg .st0{
+    fill: rgba(0, 189, 245, 1);
+    stroke: rgba(0, 189, 245, 1);
+}
+
+/*end*/
